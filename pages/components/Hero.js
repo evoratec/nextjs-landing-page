@@ -159,7 +159,11 @@ export default function Hero() {
         </div>
       </div>
       <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-       
+        <img
+          className="object-cover w-full h-56 sm:h-72 md:h-96 lg:w-full lg:h-full"
+          src="https://www.evoratec.com/wp-content/uploads/1280-720_PERFECT-compressed-e1448349700727.jpg"
+          alt=""
+        />
       </div>
     </div>
   );
