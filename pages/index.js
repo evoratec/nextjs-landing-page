@@ -11,10 +11,10 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Invenerry - Inventory Management System</title>
+        <title>Evoratec - Desarrollo a medida de aplicaciones</title>
         <meta
           name="description"
-          content="Invenerry - Inventory Management System"
+          content="Evoratec - Desarrollo a medida de aplicaciones"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
